@@ -1,4 +1,4 @@
-# Projeto simples em React mini-blog
+# Projeto simples em React de um mini-blog
 
 Para rodar o projeto:
 ```
